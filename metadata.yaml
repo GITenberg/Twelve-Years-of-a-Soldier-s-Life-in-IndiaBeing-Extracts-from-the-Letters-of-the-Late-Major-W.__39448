@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '40026'
     url: http://www.gutenberg.org/2009/agents/40026
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39448#Twelve-Years-of-a-Soldier-s-Life-in-IndiaBeing-Extracts-from-the-Letters-of-the-Late-Major-W._
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-04-14'
 gutenberg_type: Text
