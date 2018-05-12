@@ -1,0 +1,50 @@
+_repo: Twelve-Years-of-a-Soldier-s-Life-in-IndiaBeing-Extracts-from-the-Letters-of-the-Late-Major-W.__39448
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hughes, Thomas
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '645'
+    url: http://www.gutenberg.org/2009/agents/645
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hodson, W. S. R. (William Stephen Raikes)
+    alias: Hodson, William Stephen Raikes
+    birthdate: 1821
+    deathdate: 1858
+    gutenberg_agent_id: '40025'
+    url: http://www.gutenberg.org/2009/agents/40025
+  editor:
+    agent_name: Hodson, George H.
+    gutenberg_agent_id: '40026'
+    url: http://www.gutenberg.org/2009/agents/40026
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39448'
+  lccn: '40024970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858'
+- !lcsh 'Sikh War, 1848-1849'
+- !lcsh 'India -- History, Military'
+- !lcsh 'Soldiers -- Great Britain -- Biography'
+- !lcsh 'Soldiers -- India -- Biography'
+- !lcc 'DS'
+- !lcsh 'Hodson, W. S. R. (William Stephen Raikes), 1821-1858'
+- !lcsh 'Sikh War, 1845-1846'
+- !lcsh 'India -- History -- 19th century'
+title: 'Twelve Years of a Soldier''s Life in India
+
+  Being Extracts from the Letters of the Late Major W. S. R. Hodson, B. A.'
+url: http://www.gutenberg.org/ebooks/39448
